@@ -15,10 +15,8 @@ The CARRY output is the most significant bit (MSB) of the result, indicating whe
 <br>
 
 ## KMAPS
-![SUM](https://github.com/user-attachments/assets/24e74f91-cec3-4683-af43-5dacf3206352)
+![ha_kmap](https://github.com/user-attachments/assets/66dc4d2e-ea43-457c-bd1b-f58aea1c6ba3)
 
-<br>
-![CARRY](https://github.com/user-attachments/assets/77b4a2df-40b9-467b-be72-2401c3a198da)
 
 
 
