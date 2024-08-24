@@ -1,4 +1,4 @@
-# ** BINARY ADDER / RIPPLE CARRY ADDER**
+# **BINARY ADDER / RIPPLE CARRY ADDER**
 <p> A binary adder is a digital circuit that produces the arithmetic sum of two binary numbers. It can be constructed with full adders connected in cascade, with the output carry from each full adder connected to the input carry of the next full adder in the chain. </p>
 
 <p>Addition of n-bit numbers requires a chain of n full adders or a chain of one-half adder and n 9 1 full adders.The augend bits of A and the addend bits 
