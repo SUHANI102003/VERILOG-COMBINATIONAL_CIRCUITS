@@ -4,4 +4,4 @@
 <p>The addition and subtraction operations can be combined into one circuit with one common binary adder by including an exclusive-OR gate with each full adder. The mode input M controls the operation. <b>When M = 0, the circuit is an adder, and when M = 1, the circuit becomes a subtractor</b>. Each exclusive-OR gate receives input M and one of the inputs of B . When M = 0, we have B ^ 0 = B. The full adders receive the value of B , the input carry is 0, and the circuit performs A plus B . When M = 1, we have B ^ 1 = B` and C0 = 1. The B inputs are all complemented and a 1 is added through the input carry. The circuit performs the operation A plus the 2’s complement of B . </p>
 
 <br>
-![Screenshot 2024-08-24 214359](https://github.com/user-attachments/assets/573187a6-ef73-4c05-a6bb-46cb04af40d6)
+
