@@ -35,6 +35,7 @@ assign carry_out = c[N];
 genvar p;
 generate for (p=0; p<N; p=p+1)
     begin : FA_loop
+    // STRUCTURAL MODELLING
     wire t1,t2,t3;
     xor X1 (t1, A[p], B[p]) , X2 (sum[p], t1, c[p]);
     and A1 (t2, A[p], B[p]),  A2 (t3, c[p], t1);
