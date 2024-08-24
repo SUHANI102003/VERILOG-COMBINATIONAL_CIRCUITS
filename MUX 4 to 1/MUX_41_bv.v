@@ -35,4 +35,11 @@ casex(sel)
     default : f = 1'bx;
 endcase
 end
+    //       'OR'
+/*
+always@(*)
+begin
+    f = sel[1] ? (sel[0] ? i[3] : i[2]) : (sel[0] ? i[1] : i[1]);
+end
+*/
 endmodule
