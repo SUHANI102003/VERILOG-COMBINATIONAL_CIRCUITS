@@ -11,9 +11,9 @@
 ![Truth table](https://github.com/user-attachments/assets/047c19a0-df59-4024-b434-d0f12d3c81d0)
 <br>
 
-####Logical Expression for SUM:
+#### Logical Expression for SUM:
 A’ B’ C-IN + A’ B C-IN’ + A B’ C-IN’ + A B C-IN = C-IN (A’ B’ + A B) + C-IN’ (A’ B + A B’) = C-IN XOR (A XOR B) = (1,2,4,7) 
 <br>
 
-####Logical Expression for C-OUT: 
+#### Logical Expression for C-OUT: 
 A’ B C-IN + A B’ C-IN + A B C-IN’ + A B C-IN = A B + B C-IN + A C-IN = (3,5,6,7) 
