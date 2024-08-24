@@ -29,6 +29,7 @@ MUX_41_bv DUT (i,sel,f);
 
 initial 
 begin
+  /*
 sel=2'b00; i=4'b1010;
 $display ("sel =%b, f=%b",sel,f);
 
@@ -42,6 +43,23 @@ $display ("sel =%b, f=%b",sel,f);
 $display ("sel =%b, f=%b",sel,f);
 #10 $finish;
 end
+*/
+i = 4'd3;
+i = 4'd4;
+i = 4'd6;
+i = 4'd8;
+
+   sel = 2'b00;
+#5 sel = 2'b01;
+#5 sel = 2'b10;
+#5 sel = 2'b11;
+#5;
+#5 i = 4'd4;
+#5 i = 4'd2;
+#5 i = 4'd7;
+#5 i = 4'd6;
+end
+initial #40 $finish;
 
 
 endmodule
