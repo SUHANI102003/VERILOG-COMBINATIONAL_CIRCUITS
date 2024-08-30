@@ -1,2 +1,2 @@
 
-![Logo](https://lottie.host/embed/f85cbc46-2c27-4579-aea9-29d83eef0a53/o9kWHjRy0E.json)
+![Logo](https://lottie.host/a7bb17e4-d8c0-430d-bee7-7d647e3ba872/KhxoNXASFV.lottie)
