@@ -1,2 +1,22 @@
+<br />
+<div align="center">
+  <a href="file:///C:/Users/suhani%20jain/Downloads/verilog.svg">
+    <img src="file:///C:/Users/suhani%20jain/Downloads/verilog.svg" alt="Logo" width="80" height="80">
+  </a>
 
-![Logo](https://lottie.host/a7bb17e4-d8c0-430d-bee7-7d647e3ba872/KhxoNXASFV.lottie)
+  <h3 align="center">Best-README-Template</h3>
+
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  </p>
+</div>
+
