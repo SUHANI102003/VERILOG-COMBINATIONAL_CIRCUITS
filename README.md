@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="file:///C:/Users/suhani%20jain/Downloads/verilog.svg">
-    <img src="file:///C:/Users/suhani%20jain/Downloads/verilog.svg" alt="Logo" width="80" height="80">
+    <img src="" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
