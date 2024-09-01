@@ -4,7 +4,9 @@
   <a href="https://github.com/SUHANI102003/VERILOG-COMBINATIONAL_CIRCUITS">
     <img src="images/motherboard.png" alt="Logo" width="80" height="80">
   </a>
-  
+<p><a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" alt="made with love  markdown badge" ></a>  
+<a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/open-source.svg" width="130" height="30" alt="open source  markdown badge"></a>  
+</p>
   <h3 align="center">Welcome to Verilog coding</h3>
 
   <p align="center">
@@ -196,10 +198,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+Suhani Jain - [LinkedInhttps://www.linkedin.com/in/suhani-jain-16a6b4323](https://www.linkedin.com/in/suhani-jain-16a6b4323) <br>
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+<img src = "https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+Profile Link: [https://github.com/SUHANI102003](https://github.com/SUHANI102003) <br>
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+<img src = "https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100">
+Email: [jsuhani000710@gmail.com](jsuhani000710@gmail.com) <br>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
