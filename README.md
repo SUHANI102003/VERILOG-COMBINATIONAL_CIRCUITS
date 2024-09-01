@@ -213,3 +213,4 @@ Don't forget to give the project a star! ⭐ Thanks again! 😄
 * [Markdown Guide](https://www.markdownguide.org/basic-syntax/#code)
 * [Img Shields](https://shields.io)
 * [Icons](https://icons8.com/icons)
+* [Badges](https://ileriayo.github.io/markdown-badges/)
