@@ -43,10 +43,11 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+         <li><a href="#cloning-the-repository">Cloning the Repository</a></li>
+         <li><a href="#directory-structure">Directory Structure</a></li>
+         <li><a href="#compiling-and-simulating">Compiling and Simulating</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -193,19 +194,16 @@ Don't forget to give the project a star! ⭐ Thanks again! 😄
 
 <!-- LICENSE -->
 ## License
-
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](https://github.com/SUHANI102003/VERILOG-COMBINATIONAL_CIRCUITS/blob/main/LICENSE)
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
-## Contact
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
-Suhani Jain - [LinkedInhttps://www.linkedin.com/in/suhani-jain-16a6b4323](https://www.linkedin.com/in/suhani-jain-16a6b4323) <br>
+## 🔗 Contact
 
-<img src = "https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-Profile Link: [https://github.com/SUHANI102003](https://github.com/SUHANI102003) <br>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhani-jain-16a6b4323/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jsuhani000710@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUHANI102003)
 
-<img src = "https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100">
-Email: [jsuhani000710@gmail.com](jsuhani000710@gmail.com) <br>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
