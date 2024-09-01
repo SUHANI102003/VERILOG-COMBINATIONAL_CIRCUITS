@@ -81,8 +81,61 @@ This repository contains:
 
 
 ### Built With 🔧
-<figure>
-    <img src="(https://user-images.githubusercontent.com/3611330/51789332-126e5400-2188-11e9-808e-37c633755ddf.png)"
-         alt="VS code">
-</figure>
+<div>
+ <a href="https://github.com/SUHANI102003/VERILOG-COMBINATIONAL_CIRCUITS">
+    <img src="images/vivado.png" alt="Xilinx vivado" width="80" height="80">
+ </a>
+<p>Xilinx Vivado 2020.2</p>
+</div>
+
+<div>
+ <a href="https://github.com/SUHANI102003/VERILOG-COMBINATIONAL_CIRCUITS">
+    <img src="images/Icarus_Verilog_logo2.png" alt="Icarus verilog" width="80" height="80">
+ </a>
+<p>Icarus verilog</p>
+</div>
+  
+<div>
+ <a href="https://github.com/SUHANI102003/VERILOG-COMBINATIONAL_CIRCUITS">
+    <img src="images/gtkwave.png" alt="Gtkwave" width="80" height="80">
+ </a>
+<p>Gtkwave</p>
+</div>
+
+<div>
+ <a href="https://github.com/SUHANI102003/VERILOG-COMBINATIONAL_CIRCUITS">
+    <img src="images/icons8-visual-studio-code-48.png" alt="Logo" width="80" height="80">
+ </a>
+<p>VS Code</p>
+</div>
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+This guide will help you get up and running with the Verilog code in this repository. Whether you’re a professional or just starting out, you’ll find everything you need to start exploring and utilizing these Verilog modules.
+
+### Prerequisites
+Before you get started, make sure you have the following tools installed:
+
+Verilog Simulator: You'll need a Verilog simulator to compile and test the code. Some popular options include:
+
+* Vivado Simulator
+* Icarus Verilog
+  
+Synthesis Tool: To synthesize the Verilog code for FPGA implementation, you’ll need a synthesis tool such as:
+
+* Xilinx Vivado
+* Xilinx ISE
+  
+Basic Knowledge: Familiarity with Verilog HDL and FPGA design concepts is helpful, a very thorough understanding of digital electronic circuits. THis repository mainly focuses on combinational circuits. So, you need to have the basic knowledge of adders, subtractors, multiplexers, decoders, encoders, multipliers, comparators and code convertors.
+
+
+### Installation
+
+1. Xilinx Vivado at [AMD](https://www.amd.com/en.html)
+
+
+
+
+
 
