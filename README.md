@@ -133,9 +133,30 @@ Basic Knowledge: Familiarity with Verilog HDL and FPGA design concepts is helpfu
 ### Installation
 
 1. Xilinx Vivado at [AMD](https://www.amd.com/en.html)
+2. Icarus verilog at [Icarus](https://bleyer.org/icarus/)
+3. VS code at [VS code](https://code.visualstudio.com/Download)
 
 
+### Cloning the Repository
+To get a local copy of this repository, use the following command:
+`git clone https://github.com/yourusername/your-repository-name.git`
+Replace yourusername and your-repository-name with the appropriate values.
 
+### Directory Structure
 
+After cloning the repository, you’ll find the following directory structure:
+
+your-repository-name/ <br>
+│  <br>
+├── src/              # Source code directory  <br>
+│   ├── module1.v     # Example Verilog module   <br>
+│   ├── module2.v     # Another Verilog module  <br>
+│   └── ...           # Additional Verilog files  <br>
+│  <br>
+├── test/             # Testbenches directory  <br>
+│   ├── module1_tb.v  # Testbench for module1  <br>
+│   ├── module2_tb.v  # Testbench for module2  <br>
+│   └── ...           # Additional testbenches  <br>
+│  <br>
 
 
