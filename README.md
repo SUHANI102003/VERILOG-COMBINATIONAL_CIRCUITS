@@ -195,7 +195,7 @@ Don't forget to give the project a star! ⭐ Thanks again! 😄
 <!-- LICENSE -->
 ## License
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](https://github.com/SUHANI102003/VERILOG-COMBINATIONAL_CIRCUITS/blob/main/LICENSE)
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+
 
 <!-- CONTACT -->
 ## 🔗 Contact
