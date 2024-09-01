@@ -1,8 +1,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/1pKJGj7xPe3gkQFsf6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/kodingnext-coding-koding-next-binary-number-1pKJGj7xPe3gkQFsf6">via GIPHY</a></p>
-
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+  
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
