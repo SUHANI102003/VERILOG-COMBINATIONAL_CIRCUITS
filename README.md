@@ -202,6 +202,7 @@ Don't forget to give the project a star! ⭐ Thanks again! 😄
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhani-jain-16a6b4323/) 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUHANI102003)
+<br>
 Email: jsuhani000710@gmail.com
 
 <!-- ACKNOWLEDGMENTS -->
