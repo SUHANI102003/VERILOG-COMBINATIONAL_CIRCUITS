@@ -82,7 +82,7 @@ This repository contains:
 
 ### Built With 🔧
 <figure>
-    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"
+    <img src="(https://user-images.githubusercontent.com/3611330/51789332-126e5400-2188-11e9-808e-37c633755ddf.png)"
          alt="VS code">
 </figure>
 
